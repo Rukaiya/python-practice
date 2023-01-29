@@ -1,0 +1,28 @@
+name_small = 'rukaiya amin'
+name_capital = 'RUKAIYA AMIN'
+txt = "I love apples, apple are my favorite fruit"
+print('---Capitalize---')
+print(name_small.capitalize())
+print('---Casefold---')
+print(name_capital.casefold())
+print('---Center---')
+print(name_capital.center(20, '.'))
+print('---Count--')
+print(txt.count('apple', 5, 20), txt[19])
+# print('---Capitalize--')
+# print('---Capitalize--')
+# print('---Capitalize--')
+# print('---Capitalize--')
+# print('---Capitalize--')
+# print('---Capitalize--')
+# print('---Capitalize--')
+# print('---Capitalize--')
+# print('---Capitalize--')
+# print('---Capitalize--')
+# print('---Capitalize--')
+# print('---Capitalize--')
+# print('---Capitalize--')
+# print('---Capitalize--')
+# print('---Capitalize--')
+# print('---Capitalize--')
+
